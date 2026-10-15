@@ -1,0 +1,7 @@
+name = "hydra-project-nvidia-compute"
+main = "index.js"
+compatibility_date = "2026-10-15"
+
+[vars]
+# Placeholder endpoint for the distributed AI network setup
+NEBIUS_API_ENDPOINT = "https://nebius.ai"

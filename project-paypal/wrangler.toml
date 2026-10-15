@@ -1,0 +1,7 @@
+name = "hydra-project-paypal-checkout"
+main = "index.js"
+compatibility_date = "2026-10-15"
+
+[vars]
+PAYPAL_CLIENT_ID = "PLACEHOLDER_SANDBOX_CLIENT_ID"
+PAYPAL_CLIENT_SECRET = "PLACEHOLDER_SANDBOX_CLIENT_SECRET"
